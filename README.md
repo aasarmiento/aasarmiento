@@ -18,7 +18,8 @@
 
 📍 Based in the Philippines  
 💻 2 Years Back-end | 👨‍💻 5 Years Front-end  
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" width="100%" />
+</div>
 ---
 
 ## 🔧 Skills
@@ -29,8 +30,7 @@
 - Java  
 
 ---
- <img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" width="100%" />
-</div>
+
 
 
 ## ⚙️ GitHub Analytics
