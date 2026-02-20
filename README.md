@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=D9BED1&center=true&vCenter=true&width=500&lines=Hi+Im+Abigail;I+am+a+Developer" alt="Typing SVG" />
+  </a>
 
 
 # Hi 👋 I'm Abi
@@ -33,3 +36,4 @@
 ## 📫 Connect With Me
 - 📧 Email: theabigailsarmiento@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/aasarmiento/
+</div>
