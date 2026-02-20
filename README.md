@@ -9,9 +9,6 @@
 
   <br/>
 
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=D9BED1&center=true&vCenter=true&width=500&lines=Abigail;Java+Developer;OOP+Specialist;Programmer" alt="Abigail's Typing GIF" />
-</div>
 
 
 
