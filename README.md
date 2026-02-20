@@ -21,13 +21,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=aasarmiento&show_icons=true)
+![https://github-readme-stats.vercel.app/api?username=aasarmiento&show_icons=true]
 
 ---
 
 ## 📫 Contact Me
 - Email: theabigailsarmiento@gmail.com
-- LinkedIn: [yourlink](https://www.linkedin.com/in/aasarmiento/)
+- LinkedIn: [https://www.linkedin.com/in/aasarmiento/](linkedin)
 
 ### 📊 webDev's GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?aasarmiento=webDev&show_icons=true&theme=tokyonight)
