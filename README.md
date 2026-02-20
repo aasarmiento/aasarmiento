@@ -5,6 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=D9BED1&center=true&vCenter=true&width=500&lines=Hi+Im+Abigail;I+am+a+Developer" alt="Typing SVG" />
   </a>
 
+  <br/>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" width="100%" />
+</div>
+
 
 
 
