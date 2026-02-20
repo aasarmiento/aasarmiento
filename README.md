@@ -6,7 +6,7 @@
   </a>
 
 
-# Hi 👋 I'm Abi
+
 
 💻 Programmer | Web Developer | Student  
 🚀 Learning React, Python, Java, and AI  
