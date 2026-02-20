@@ -27,15 +27,13 @@
 
 ## 📫 Contact Me
 - Email: theabigailsarmiento@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/aasarmiento/](linkedin)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/aasarmiento/)
 
-### 📊 webDev's GitHub Stats
-![https://github-readme-stats.vercel.app/api?aasarmiento=webDev&show_icons=true&theme=tokyonight]
+### 📊 aasarmiento's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasarmiento&show_icons=true&theme=tokyonight)
 
-### 💻 webDev's GitHub Languages
-![https://github-readme-stats.vercel.app/api/top-langs/?aasarmiento=webDev&layout=compact&theme=tokyonight]
-**aasarmiento/aasarmiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 💻 aasarmiento's GitHub Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasarmiento&layout=compact&theme=tokyonight)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
