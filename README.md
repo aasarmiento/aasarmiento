@@ -47,7 +47,9 @@
 
 ---
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasarmiento&theme=dracula&bg_color=0D1117&color=D9BED1&line=D9BED1&point=D9BED1&area=true&hide_border=true" width="100%" />
+</div>
 
 ## ⚙️ GitHub Analytics
 
