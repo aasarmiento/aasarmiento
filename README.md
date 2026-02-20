@@ -22,13 +22,8 @@
 
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasarmiento&show_icons=true&theme=tokyonight)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasarmiento&layout=compact&theme=tokyonight)
----
+![My Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aasarmiento&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aasarmiento&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 - 📧 Email: theabigailsarmiento@gmail.com  
